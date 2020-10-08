@@ -3,7 +3,6 @@
 
 int main(void)
 {
-   printf("#");
    //Getting height from the user
    int n;
    do
